@@ -1,0 +1,160 @@
+﻿id_Venta;id_Cliente;id_producto;Marca;Modelo;Categoria;Precio;Cantidad;Fecha;Mes;Vendedor;Servicio
+1;1;1;Adidas;Zapatillas Urbanas Honey Azul Marino;adulto;50;1;15.08.2020  11:46 ;Agosto;Neisser;Pedido
+2;2;1;Adidas;Zapatillas Urbanas Honey Azul Marino;adulto;50;2;28.12.2020 10:30;Diciembre;Kenny;Venta
+3;2;2;Bata;Zapatillas Urbanas Edwin Azul Marino;niño;30;2;31.08.2020  9:46;Agosto;Takashi;Venta
+4;1;2;Bata;Zapatillas Urbanas Edwin Azul Marino;niño;30;3;31.07.2020 8:50;Julio;Kevin;Devolucion
+5;1;3;Bata Comfit;Zapatillas Urbanas New Titan Azul;adulto;20;1;29.06.2020 3:30;Junio;Neisser;Venta
+6;2;1;Adidas;Zapatillas Urbanas Honey Azul Marino;adulto;50;1;29.05.2020 5:46;Mayo;Kenny;Pedido
+7;3;2;Bata;Zapatillas Urbanas Edwin Azul Marino;niño;30;1;1.07.2020 5:33;Julio;Takashi;Pedido
+8;3;3;Bata Comfit;Zapatillas Urbanas New Titan Azul;adulto;20;3;30.06.2020 7:56;Junio;Kevin;Venta
+9;4;4;Bata Industrials;Zapatillas Urbanas Jerry Verde;niño;40;2;2.04.2020 2:21;Abril;Neisser;Devolucion
+10;4;5;Cartago;Zapatillas Urbanas Rollo Negro;adulto;60;2;17.04.2020 6:56;Abril;Neisser;Venta
+11;4;6;North Star;Zapatillas Urbanas Jerry Negro;adulto;30;2;30.08.2020 2:50;Agosto;Neisser;Devolucion
+12;5;1;Adidas;Zapatillas Urbanas Star Negro;niño;20;2;27.11.2020 11:48;Noviembre;Neisser;Venta
+13;5;2;Bata;Zapatillas Urbanas Denver Negro;adulto;60;2;31.03.2020 11:45;Marzo;Kenny;Venta
+14;6;3;Bata Comfit;Zapatillas Urbanas Denver Blanco;niño;50;2;18.12.2020 11:43;Diciembre;Takashi;Venta
+15;7;4;Bata Industrials;Zapatillas Urbanas Login Azul;adulto;20;3;18.07.2020 11:40;Julio;Kevin;Devolucion
+16;8;5;Cartago;Zapatillas Urbanas Amyy Azul Marino;adulto;50;3;25.10.2020 11:39;Octubre;Neisser;Devolucion
+17;9;6;North Star;Zapatillas Urbanas Plus Azul;adulto;30;1;16.05.2020 11:37;Mayo;Neisser;Devolucion
+18;9;1;Adidas;Zapatillas Urbanas Russell Blanco;niño;20;1;4.10.2020 11:32;Octubre;Neisser;Venta
+19;10;2;Bata;Zapatillas Urbanas Peterson Negro;adulto;40;3;24.11.2020  02:00;Noviembre;Neisser;Venta
+20;10;3;Bata Comfit;Zapatillas Urbanas Titan Negro;niño;60;3;5.02.2020 11:25 ;Febrero;Neisser;Venta
+21;11;4;Bata Industrials;Zapatillas Urbanas Norman Blanco;adulto;30;2;6.10.2020 11:20;Octubre;Neisser;Pedido
+22;12;5;Cartago;Zapatillas Urbanas Kate Blanco;adulto;20;3;22.05.2020 11:39 ;Mayo;Takashi;Venta
+23;13;6;North Star;Zapatillas Urbanas Jimmy Blanco;niño;60;1;16.11.2020 11:25;Noviembre;Neisser;Devolucion
+24;14;1;Adidas;Zapatillas Urbanas Destiny Blanco;adulto;50;1;2.07.2020 11:23;Julio;Takashi;Venta
+25;14;2;Bata;Zapatillas Urbanas Honey Blanco;niño;20;2;13.03.2020 11:20;Marzo;Neisser;Venta
+26;15;3;Bata Comfit;Zapatillas Urbanas Las Vegas Blanco;adulto;50;3;13.05.2020 11.:19;Mayo;Takashi;Devolucion
+27;15;4;Bata Industrials;Zapatillas Urbanas Las Vegas Azul;niño;30;2;20.11.2020 11:18;Noviembre;Neisser;Pedido
+28;16;5;Cartago;Zapatillas Urbanas Ivar Azul Marino;adulto;20;2;5.10.2020 11:16;Octubre;Takashi;Venta
+29;16;6;North Star;Zapatillas Urbanas Moon Azul;niño;40;1;30.03.202011: 15;Marzo;Neisser;Venta
+30;41;1;Adidas;Zapatillas Urbanas Rollo Azul Marino;adulto;60;2;14.06.2020 11:03;Junio;Takashi;Venta
+31;42;2;Bata;Zapatillas Urbanas Titan Azul;adulto;30;2;11.05.2020 11:01;Mayo;Neisser;Venta
+32;43;3;Bata Comfit;Zapatillas Urbanas Pop Azul;adulto;20;2;11.06.2020 11:00;Julio;Takashi;Venta
+33;44;4;Bata Industrials;Zapatillas Urbanas Star Azul;niño;60;1;20.12.2020 10:58 ;Diciembre;Takashi;Venta
+34;45;5;Cartago;Zapatillas Urbanas Las Vegas Azul;adulto;50;1;14.10.2020 10:57;Octubre;Neisser;Venta
+35;46;6;North Star;Zapatillas Urbanas Jason Negro;niño;20;2;1.09.2020 10:22;Setiembre;Takashi;Venta
+36;47;6;North Star;Zapatillas Urbanas Jerry Negro;adulto;30;3;27/12/2020;Diciembre;Takashi;Pedido
+37;48;1;Adidas;Zapatillas Urbanas Star Negro;niño;20;2;20/02/2020;Febrero;Takashi;Pedido
+38;49;2;Bata;Zapatillas Urbanas Denver Negro;adulto;60;1;9/06/2020;Junio;Neisser;Venta
+39;50;3;Bata Comfit;Zapatillas Urbanas Denver Blanco;niño;50;3;2/11/2020;Noviembre;Takashi;Venta
+40;51;4;Bata Industrials;Zapatillas Urbanas Login Azul;adulto;20;1;20/06/2020;Junio;Neisser;Venta
+41;52;5;Cartago;Zapatillas Urbanas Amyy Azul Marino;adulto;50;2;1/03/2020;Marzo;Takashi;Pedido
+42;53;6;North Star;Zapatillas Urbanas Plus Azul;adulto;30;1;30/11/2020;Noviembre;Takashi;Venta
+43;54;1;Adidas;Zapatillas Urbanas Russell Blanco;niño;20;3;21/08/2020;Agosto;Kenny;Venta
+44;55;2;Bata;Zapatillas Urbanas Peterson Negro;adulto;40;3;7/03/2020;Marzo;Takashi;Venta
+45;56;3;Bata Comfit;Zapatillas Urbanas Titan Negro;niño;60;3;3/06/2020;Junio;Kenny;Venta
+46;57;4;Bata Industrials;Zapatillas Urbanas Norman Blanco;adulto;30;3;11/02/2020;Febrero;Takashi;Pedido
+47;58;5;Cartago;Zapatillas Urbanas Kate Blanco;adulto;20;1;1/06/2020;Junio;Neisser;Pedido
+48;59;3;Bata Comfit;Zapatillas Urbanas Pop Azul;adulto;20;1;3/09/2020;Setiembre;Neisser;Venta
+49;60;3;Bata Comfit;Zapatillas Urbanas Pop Azul;adulto;20;1;4/05/2020;Mayo;Kenny;Venta
+50;61;3;Bata Comfit;Zapatillas Urbanas Denver Blanco;niño;50;1;20/05/2020;Mayo;Neisser;Venta
+51;62;4;Bata Industrials;Zapatillas Urbanas Login Azul;adulto;20;3;5/12/2020;Diciembre;Neisser;Venta
+52;63;5;Cartago;Zapatillas Urbanas Amyy Azul Marino;adulto;50;3;3/05/2020;Mayo;Kenny;Venta
+53;64;6;North Star;Zapatillas Urbanas Plus Azul;adulto;30;1;4/03/2020;Marzo;Kenny;Venta
+54;65;1;Adidas;Zapatillas Urbanas Russell Blanco;niño;20;2;24/04/2020;Abril;Neisser;Venta
+55;66;2;Bata;Zapatillas Urbanas Peterson Negro;adulto;40;1;22/01/2020;Enero;Takashi;Venta
+56;41;3;Bata Comfit;Zapatillas Urbanas Titan Negro;niño;60;1;13/07/2020;Julio;Neisser;Devolucion
+57;42;4;Bata Industrials;Zapatillas Urbanas Norman Blanco;adulto;30;2;17/02/2020;Febrero;Takashi;Pedido
+58;43;5;Cartago;Zapatillas Urbanas Kate Blanco;adulto;20;2;12/02/2020;Febrero;Neisser;Venta
+59;44;6;North Star;Zapatillas Urbanas Jimmy Blanco;niño;60;2;19/11/2020;Noviembre;Takashi;Venta
+60;45;1;Adidas;Zapatillas Urbanas Destiny Blanco;adulto;50;2;31/07/2020;Julio;Neisser;Venta
+61;46;2;Bata;Zapatillas Urbanas Honey Blanco;niño;20;1;14/02/2020;Febrero;Takashi;Pedido
+62;47;3;Bata Comfit;Zapatillas Urbanas Las Vegas Blanco;adulto;50;3;6/02/2020;Febrero;Neisser;Venta
+63;48;4;Bata Industrials;Zapatillas Urbanas Las Vegas Azul;niño;30;2;20/12/2020;Diciembre;Neisser;Venta
+64;52;5;Cartago;Zapatillas Urbanas Ivar Azul Marino;adulto;20;3;25/08/2020;Agosto;Takashi;Venta
+65;53;6;North Star;Zapatillas Urbanas Moon Azul;niño;40;3;4/07/2020;Julio;Kenny;Venta
+66;54;1;Adidas;Zapatillas Urbanas Las Vegas Azul;adulto;50;1;20/09/2020;Setiembre;Kenny;Pedido
+67;55;2;Bata;Zapatillas Urbanas Las Vegas Mostaza;niño;30;3;18/11/2020;Noviembre;Kenny;Venta
+68;56;3;Bata Comfit;Zapatillas Urbanas Las Vegas Verde;adulto;20;2;27/09/2020;Setiembre;Neisser;Venta
+69;57;4;Bata Industrials;Zapatillas Urbanas Las Vegas Verde;niño;40;2;13/12/2020;Diciembre;Kenny;Venta
+70;58;5;Cartago;Zapatillas Urbanas Ivar Negro;adulto;60;2;20/07/2020;Julio;Kenny;Venta
+71;59;6;North Star;Zapatillas Urbanas New Titan Gris;niño;30;1;3/08/2020;Agosto;Takashi;Pedido
+72;60;1;Adidas;Zapatillas Urbanas Titan Negro;adulto;20;2;27/12/2020;Diciembre;Kenny;Venta
+73;61;2;Bata;Zapatillas Urbanas Las Vegas Rojo;niño;60;2;21/09/2020;Setiembre;Kenny;Venta
+74;62;3;Bata Comfit;Zapatillas Urbanas Sandy Azul Marino;adulto;50;2;28/03/2020;Marzo;Neisser;Venta
+75;63;4;Bata Industrials;Zapatillas Urbanas Truman Azul;adulto;50;2;20/02/2020;Febrero;Kenny;Venta
+76;64;5;Cartago;Zapatillas Urbanas Las Vegas Gris;adulto;30;1;23/07/2020;Julio;Kevin;Pedido
+77;65;6;North Star;Zapatillas Urbanas Ubba Blanco;niño;20;3;18/12/2020;Diciembre;Kenny;Devolucion
+78;1;1;Adidas;Zapatillas Urbanas Blanco;adulto;40;1;1/01/2020;Enero;Kenny;Venta
+79;2;2;Bata;Zapatillas Urbanas Las Vegas Natural;niño;60;1;17/09/2020;Setiembre;Takashi;Devolucion
+80;3;3;Bata Comfit;Zapatillas Urbanas Jimmy Azul;adulto;30;1;10/05/2020;Mayo;Kevin;Venta
+81;4;4;Bata Industrials;Zapatillas Urbanas Wisconsin Negro;niño;20;1;9/03/2020;Marzo;Takashi;Pedido
+82;5;5;Cartago;Zapatillas Urbanas Alder Negro;adulto;60;2;20/02/2020;Febrero;Kevin;Venta
+83;6;6;North Star;Zapatillas Urbanas Russell Negro;adulto;50;2;28/12/2020;Diciembre;Kevin;Venta
+84;7;1;Adidas;Zapatillas Urbanas Maryland Negro;niño;20;1;4/04/2020;Abril;Kevin;Venta
+85;8;2;Bata;Zapatillas Urbanas Otawa Negro;adulto;50;3;11/05/2020;Mayo;Kevin;Venta
+86;9;3;Bata Comfit;Zapatillas Urbanas Wild Negro;niño;30;2;28/12/2020;Diciembre;Kenny;Pedido
+87;10;4;Bata Industrials;Zapatillas Urbanas Zero Negro;adulto;20;1;1/09/2020;Setiembre;Kevin;Pedido
+88;11;5;Cartago;Zapatillas Urbanas Petronas Negro;adulto;40;3;9/09/2020;Setiembre;Neisser;Venta
+89;12;6;North Star;Zapatillas Urbanas Destiny Negro;adulto;60;3;31/01/2020;Enero;Takashi;Venta
+90;13;7;Pata Pata;Zapatillas Urbanas New York Negro;niño;30;2;24/12/2020;Diciembre;Takashi;Venta
+91;14;1;Adidas;Zapatillas Urbanas Wild Negro;adulto;20;2;25/06/2020;Junio;Takashi;Venta
+92;15;2;Bata;Zapatillas Urbanas Chen Negro;niño;60;1;11/10/2020;Octubre;Takashi;Venta
+93;16;3;Bata Comfit;Zapatillas Urbanas Sandy Negro;adulto;50;2;19/06/2020;Junio;Neisser;Venta
+94;17;4;Bata Industrials;Zapatillas Urbanas Plus Negro;adulto;20;2;22/04/2020;Abril;Neisser;Venta
+95;18;5;Cartago;Zapatillas Urbanas Marrakesh Negro;niño;50;3;31/07/2020;Julio;Neisser;Venta
+96;19;6;North Star;Zapatillas Urbanas Rhoss Negro;adulto;30;3;17/01/2020;Enero;Neisser;Pedido
+97;20;7;Pata Pata;Zapatillas Urbanas Truman Gris;niño;20;3;6/08/2020;Agosto;Neisser;Pedido
+98;21;3;Bata Comfit;Zapatillas Urbanas Rhoss Blanco;adulto;40;2;3/02/2020;Febrero;Kenny;Venta
+99;22;3;Bata Comfit;Zapatillas Urbanas Login Blanco;niño;60;2;3/10/2020;Octubre;Takashi;Venta
+100;23;3;Bata Comfit;Zapatillas Urbanas Alder Blanco;adulto;30;2;23/06/2020;Junio;Kevin;Venta
+101;24;3;Bata Comfit;Zapatillas Urbanas Sea Blanco;niño;20;2;6/08/2020;Agosto;Neisser;Pedido
+102;25;3;Bata Comfit;Zapatillas Urbanas Zero Blanco;adulto;60;3;8/04/2020;Abril;Kenny;Venta
+103;26;6;North Star;Zapatillas Urbanas Tank Blanco;adulto;50;1;27/10/2020;Octubre;Takashi;Venta
+104;27;6;North Star;Zapatillas Urbanas Reed Blanco;adulto;20;1;30/04/2020;Abril;Kevin;Venta
+105;28;6;North Star;Zapatillas Urbanas Compus Blanco;niño;50;3;4/04/2020;Abril;Neisser;Venta
+106;29;6;North Star;Zapatillas Urbanas Mitut Blanco;adulto;30;2;27/08/2020;Agosto;Neisser;Pedido
+107;30;6;North Star;Zapatillas Urbanas Compus Blanco;niño;20;2;6/10/2020;Octubre;Neisser;Pedido
+108;31;3;Bata Comfit;Zapatillas Urbanas Vincet Azul;adulto;40;2;27/10/2020;Octubre;Neisser;Venta
+109;32;6;North Star;Zapatillas Urbanas Jason Azul;niño;60;3;3/07/2020;Julio;Kenny;Venta
+110;33;3;Bata Comfit;Zapatillas Urbanas Pop Azul;adulto;30;2;27/03/2020;Marzo;Takashi;Venta
+111;34;6;North Star;Zapatillas Urbano Deportivas Bata 3D;niño;20;3;15/08/2020;Agosto;Kevin;Pedido
+112;35;5;Cartago;Zapatillas Botín Kyoto Negro;adulto;60;2;3/10/2020;Octubre;Neisser;Venta
+113;36;5;Cartago;Zapatillas Stambul 2;niño;50;2;11/07/2020;Julio;Neisser;Devolucion
+114;37;5;Cartago;Zapatillas Kyoto azul6;adulto;40;3;17/08/2020;Agosto;Neisser;Venta
+115;38;6;North Star;Zapatillas Kyoto verde5;niño;60;3;22/01/2020;Enero;Neisser;Venta
+116;39;3;Bata Comfit;Zapatillas Kyoto amarillo4;adulto;30;2;1/10/2020;Octubre;Neisser;Pedido
+117;40;6;North Star;Zapatillas Kyoto gris3;adulto;20;3;1/06/2020;Junio;Neisser;Devolucion
+118;3;3;Bata Comfit;Zapatillas Stambul negro6;adulto;60;3;17/01/2020;Enero;Takashi;Venta
+119;3;6;North Star;Zapatillas Stambul azul5;niño;50;2;27/08/2020;Agosto;Neisser;Venta
+120;4;3;Bata Comfit;Zapatillas North Star 3;adulto;20;1;19/07/2020;Julio;Kenny;Venta
+121;4;6;North Star;Zapatillas Power 3;niño;50;1;20/04/2020;Abril;Takashi;Pedido
+122;4;6;North Star;Zapatillas Transit 2;adulto;30;3;20/01/2020;Enero;Kevin;Venta
+123;5;3;Bata Comfit;Zapatillas Weinbrenner;adulto;20;3;22/11/2020;Noviembre;Neisser;Venta
+124;5;3;Bata Comfit;Zapatillas Bata;adulto;40;3;3/02/2020;Febrero;Kenny;Venta
+125;6;3;Bata Comfit;Zapatillas Bata Comfit;niño;60;3;5/05/2020;Mayo;Takashi;Venta
+126;7;3;Bata Comfit;Zapatillas Urbanas Alder Blanco;adulto;30;2;29/07/2020;Julio;Kevin;Pedido
+127;8;3;Bata Comfit;Zapatillas Urbanas Sea Blanco;niño;20;3;29/02/2020;Febrero;Neisser;Pedido
+128;9;3;Bata Comfit;Zapatillas Urbanas Zero Blanco;adulto;60;3;8/01/2020;Enero;Neisser;Venta
+129;9;6;North Star;Zapatillas Urbanas Tank Blanco;adulto;50;3;27/07/2020;Julio;Neisser;Venta
+130;10;6;North Star;Zapatillas Urbanas Reed Blanco;adulto;20;1;11/04/2020;Abril;Neisser;Venta
+131;1;6;North Star;Zapatillas Urbanas Compus Blanco;niño;50;3;14/07/2020;Julio;Kenny;Pedido
+132;2;6;North Star;Zapatillas Urbanas Mitut Blanco;adulto;30;3;11/12/2020;Diciembre;Takashi;Venta
+133;2;6;North Star;Zapatillas Urbanas Compus Blanco;niño;20;3;21/12/2020;Diciembre;Kevin;Venta
+134;1;6;Bata Comfit;Zapatillas Urbanas Vincet Azul;adulto;40;1;14/10/2020;Octubre;Neisser;Venta
+135;1;6;North Star;Zapatillas Urbanas Jason Azul;niño;60;2;4/10/2020;Octubre;Neisser;Venta
+136;2;3;Bata Comfit;Zapatillas Urbanas Pop Azul;adulto;30;3;7/01/2020;Enero;Neisser;Pedido
+137;3;6;North Star;Zapatillas Urbano Deportivas Bata 3D;niño;20;2;25/09/2020;Setiembre;Neisser;Pedido
+138;3;5;Cartago;Zapatillas Botín Kyoto Negro;adulto;60;2;27/11/2020;Noviembre;Neisser;Venta
+139;4;5;Cartago;Zapatillas Stambul 2;niño;50;2;29/12/2020;Diciembre;Neisser;Devolucion
+140;4;5;Cartago;Zapatillas Kyoto azul6;adulto;40;2;11/12/2020;Diciembre;Kenny;Venta
+141;4;6;North Star;Zapatillas Kyoto verde5;niño;60;3;17/04/2020;Abril;Takashi;Venta
+142;5;3;Bata Comfit;Zapatillas Kyoto amarillo4;adulto;30;2;6/08/2020;Agosto;Kevin;Venta
+143;5;6;North Star;Zapatillas Kyoto gris3;adulto;20;1;8/10/2020;Octubre;Neisser;Devolucion
+144;6;3;Bata Comfit;Zapatillas Stambul negro6;adulto;60;1;5/06/2020;Junio;Kenny;Venta
+145;7;6;North Star;Zapatillas Stambul azul5;niño;50;3;2/12/2020;Diciembre;Takashi;Venta
+146;8;3;Bata Comfit;Zapatillas North Star 3;adulto;20;3;24/10/2020;Octubre;Kevin;Devolucion
+147;9;5;Cartago;Zapatillas North Star;adulto;30;2;4/06/2020;Junio;Neisser;Venta
+148;9;3;Bata Comfit;Zapatillas Power 2;niño;20;3;20/10/2020;Octubre;Neisser;Venta
+149;10;5;Cartago;Zapatillas Transit;adulto;60;2;5/03/2020;Marzo;Neisser;Venta
+150;10;3;Bata Comfit;Zapatillas Weinbrenner 2;adulto;50;1;10/05/2020;Mayo;Neisser;Devolucion
+151;11;6;North Star;Zapatillas Bata Comfit;niño;20;2;15/07/2020;Julio;Kenny;Pedido
+152;12;6;North Star;Zapatillas North Star 2;adulto;40;3;23/04/2020;Abril;Takashi;Venta
+153;13;3;Bata Comfit;Zapatillas Power;niño;20;2;21/10/2020;Octubre;Kevin;Venta
+154;14;6;North Star;Zapatillas Weinbrenner;adulto;30;3;7.05.2020  11:44;Mayo;Neisser;Venta
+155;14;6;North Star;Zapatillas Bata Comfit 2;niño;50;3;25.07.2020 07:2;Julio;Neisser;Venta
+156;15;6;North Star;Zapatillas Urbanas Plus Azul;adulto;30;2;23.04.2020 9:01;Abril;Neisser;Pedido
+157;15;4;Bata Industrials;Zapatillas Urbanas Login Azul;adulto;20;2;8.10.2020 22:45;Octubre;Neisser;Venta
+158;16;5;Cartago;Zapatillas Urbanas Rollo Negro;adulto;60;3;24.04.2020 06:45;Abril;Neisser;Venta
+159;16;2;Bata;Zapatillas Urbanas Denver Negro;adulto;60;2;30.06.2020 12:12;Junio;Neisser;Venta
