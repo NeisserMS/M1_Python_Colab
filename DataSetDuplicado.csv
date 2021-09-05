@@ -1,0 +1,501 @@
+﻿id_Venta;Nombre;Categoria;Precio;Cantidad;Fecha;Mes;Vendedor;Servicio;nombre_cliente;dni
+1;Casaca Crop Impermeable M;adulto;50;100;27/12/2020;Agosto;Neisser;Pedido;Jair;10000000
+2;Casaca Crop Impermeable M;adulto;50;700;20/02/2020;Diciembre;Kenny;Venta;Karen;10000001
+3;Jean Basico;niño;30;200;9/06/2020;Agosto;Takashi;Venta;Junior;10000002
+3;Shompa tejida valentina;niño;30;600;2/11/2020;Julio;Kevin;Devolucion;Martha;10000003
+5;Blusa manga larga Urbano;adulto;20;120;20/06/2020;Junio;Neisser;Venta;Mariano;10000004
+3;Chompa newport;adulto;50;100;1/03/2020;Mayo;Kenny;Pedido;Keyler;10000005
+7;Leggings deportivo;niño;30;500;30/11/2020;Julio;Takashi;Pedido;Jordi;10000006
+8;Poleron Vero;adulto;20;320;21/08/2020;Junio;Kevin;Venta;Segundo;10000007
+9;Short Urbano;niño;40;200;7/03/2020;Abril;Neisser;Devolucion;Magdalena;10000008
+10;Polo manga cero;adulto;60;250;3/06/2020;Abril;Neisser;Venta;Jessy;10000009
+11;Pantalon Urbano;adulto;30;100;11/02/2020;Agosto;Neisser;Devolucion;Arimar;10000010
+12;Blusa Cottons;niño;20;100;1/06/2020;Noviembre;Neisser;Venta;Neisser;10000011
+13;Casaca Crop Impermeable M;adulto;60;200;3/09/2020;Marzo;Kenny;Venta;Kevin;10000012
+14;Casaca Crop Impermeable M;niño;50;200;4/05/2020;Diciembre;Takashi;Venta;Daniel;10000013
+15;Jean Basico;adulto;20;100;20/05/2020;Julio;Kevin;Devolucion;Dayana;10000014
+16;Shompa tejida valentina;adulto;50;700;5/12/2020;Octubre;Neisser;Devolucion;Nataly;10000015
+17;Blusa manga larga Urbano;adulto;30;200;3/05/2020;Mayo;Neisser;Devolucion;Diane;10000016
+18;Chompa newport;niño;20;600;4/03/2020;Octubre;Neisser;Venta;Nicol;10000017
+19;Leggings deportivo;adulto;40;120;24/04/2020;Noviembre;Neisser;Venta;Luis;10000018
+20;Poleron Vero;niño;60;100;22/01/2020;Febrero;Neisser;Venta;Lidia;10000019
+21;Short Urbano;adulto;30;500;13/07/2020;Octubre;Neisser;Pedido;Teresa;10000020
+22;Polo manga cero;adulto;20;320;17/02/2020;Mayo;Takashi;Venta;Agustina;10000021
+23;Pantalon Urbano;niño;60;200;12/02/2020;Noviembre;Neisser;Devolucion;Laura;10000022
+24;Blusa Cottons;adulto;50;250;19/11/2020;Julio;Takashi;Venta;Fiorella;10000023
+25;Casaca Crop Impermeable M;niño;20;100;31/07/2020;Marzo;Neisser;Venta;Augusto;10000024
+26;Casaca Crop Impermeable M;adulto;50;100;14/02/2020;Mayo;Takashi;Devolucion;Dancy;10000025
+27;Jean Basico;niño;30;200;6/02/2020;Noviembre;Neisser;Pedido;Takashi;10000026
+28;Shompa tejida valentina;adulto;20;200;20/12/2020;Octubre;Takashi;Venta;Hugo;10000027
+29;Blusa manga larga Urbano;niño;40;1000;25/08/2020;Marzo;Neisser;Venta;Arilson;10000028
+30;Chompa newport;adulto;60;700;4/07/2020;Junio;Takashi;Venta;Katerin;10000029
+31;Leggings deportivo;adulto;30;500;20/09/2020;Mayo;Neisser;Venta;Marilyn;10000030
+32;Poleron Vero;adulto;20;600;18/11/2020;Julio;Takashi;Venta;Seydi;10000031
+33;Short Urbano;niño;60;100;27/09/2020;Diciembre;Takashi;Venta;Kimberly;10000032
+34;Polo manga cero;adulto;50;200;13/12/2020;Octubre;Neisser;Venta;Marien;10000033
+35;Pantalon Urbano;niño;20;600;20/07/2020;Setiembre;Takashi;Venta;Patricia;10000034
+36;Blusa Cottons;adulto;30;120;3/08/2020;Diciembre;Takashi;Pedido;Cristian;10000035
+37;Casaca Crop Impermeable M;niño;20;100;27/12/2020;Febrero;Takashi;Pedido;Piero;10000036
+38;Casaca Crop Impermeable M;adulto;60;500;21/09/2020;Junio;Neisser;Venta;Moises;10000037
+39;Jean Basico;niño;50;320;28/03/2020;Noviembre;Takashi;Venta;Marcelo;10000038
+40;Shompa tejida valentina;adulto;20;200;20/02/2020;Junio;Neisser;Venta;Juleysi;10000039
+41;Blusa manga larga Urbano;adulto;50;250;23/07/2020;Marzo;Takashi;Pedido;Marie;10000040
+42;Chompa newport;adulto;30;100;18/12/2020;Noviembre;Takashi;Venta;Mariela;10000041
+43;Leggings deportivo;niño;20;100;21/08/2020;Agosto;Kenny;Venta;Neisser;10000042
+44;Poleron Vero;adulto;40;200;7/03/2020;Marzo;Takashi;Venta;Neisser;10000043
+45;Short Urbano;niño;60;200;3/06/2020;Junio;Kenny;Venta;Neisser;10000044
+46;Polo manga cero;adulto;30;1000;11/02/2020;Febrero;Takashi;Pedido;Neisser;10000045
+47;Pantalon Urbano;adulto;20;700;1/06/2020;Junio;Neisser;Pedido;Katyuska;10000046
+48;Blusa Cottons;adulto;20;500;3/09/2020;Setiembre;Neisser;Venta;Karla;10000047
+49;Casaca Crop Impermeable M;adulto;20;600;4/05/2020;Mayo;Kenny;Venta;Dani;10000048
+50;Casaca Crop Impermeable M;niño;50;100;20/05/2020;Mayo;Neisser;Venta;Thiago;10000049
+51;Jean Basico;adulto;20;200;5/12/2020;Diciembre;Neisser;Venta;Jair;10000050
+52;Shompa tejida valentina;adulto;50;600;3/05/2020;Mayo;Kenny;Venta;Karen;10000051
+53;Blusa manga larga Urbano;adulto;30;120;4/03/2020;Marzo;Kenny;Venta;Junior;10000052
+54;Chompa newport;niño;20;100;24/04/2020;Abril;Neisser;Venta;Martha;10000053
+55;Leggings deportivo;adulto;40;500;22/01/2020;Enero;Takashi;Venta;Mariano;10000054
+56;Poleron Vero;niño;60;320;13/07/2020;Julio;Neisser;Devolucion;Keyler;10000055
+57;Short Urbano;adulto;30;200;17/02/2020;Febrero;Takashi;Pedido;Jordi;10000056
+58;Polo manga cero;adulto;20;250;12/02/2020;Febrero;Neisser;Venta;Segundo;10000057
+59;Pantalon Urbano;niño;60;100;19/11/2020;Noviembre;Takashi;Venta;Magdalena;10000058
+60;Blusa Cottons;adulto;50;100;31/07/2020;Julio;Neisser;Venta;Jessy;10000059
+61;Casaca Crop Impermeable M;niño;20;200;14/02/2020;Febrero;Takashi;Pedido;Arimar;10000060
+62;Casaca Crop Impermeable M;adulto;50;200;6/02/2020;Febrero;Neisser;Venta;Neisser;10000061
+63;Jean Basico;niño;30;1000;20/12/2020;Diciembre;Neisser;Venta;Kevin;10000062
+64;Shompa tejida valentina;adulto;20;700;25/08/2020;Agosto;Takashi;Venta;Daniel;10000063
+65;Blusa manga larga Urbano;niño;40;500;4/07/2020;Julio;Kenny;Venta;Dayana;10000064
+66;Chompa newport;adulto;50;600;20/09/2020;Setiembre;Kenny;Pedido;Nataly;10000065
+67;Leggings deportivo;niño;30;100;18/11/2020;Noviembre;Kenny;Venta;Diane;10000066
+68;Poleron Vero;adulto;20;200;27/09/2020;Setiembre;Neisser;Venta;Nicol;10000067
+69;Short Urbano;niño;40;600;13/12/2020;Diciembre;Kenny;Venta;Luis;10000068
+70;Polo manga cero;adulto;60;200;20/07/2020;Julio;Kenny;Venta;Lidia;10000069
+71;Pantalon Urbano;niño;30;600;3/08/2020;Agosto;Takashi;Pedido;Teresa;10000070
+72;Blusa Cottons;adulto;20;120;27/12/2020;Diciembre;Kenny;Venta;Agustina;10000071
+73;Casaca Crop Impermeable M;niño;60;100;21/09/2020;Setiembre;Kenny;Venta;Laura;10000072
+74;Casaca Crop Impermeable M;adulto;50;500;28/03/2020;Marzo;Neisser;Venta;Fiorella;10000073
+75;Jean Basico;adulto;50;320;20/02/2020;Febrero;Kenny;Venta;Augusto;10000074
+76;Shompa tejida valentina;adulto;30;200;23/07/2020;Julio;Kevin;Pedido;Dancy;10000075
+77;Blusa manga larga Urbano;niño;20;250;18/12/2020;Diciembre;Kenny;Devolucion;Takashi;10000076
+78;Chompa newport;adulto;40;100;1/01/2020;Enero;Kenny;Venta;Hugo;10000077
+79;Leggings deportivo;niño;60;100;17/09/2020;Setiembre;Takashi;Devolucion;Arilson;10000078
+80;Poleron Vero;adulto;30;200;10/05/2020;Mayo;Kevin;Venta;Katerin;10000079
+81;Short Urbano;niño;20;200;9/03/2020;Marzo;Takashi;Pedido;Marilyn;10000080
+82;Polo manga cero;adulto;60;1000;20/02/2020;Febrero;Kevin;Venta;Seydi;10000081
+83;Pantalon Urbano;adulto;50;700;28/12/2020;Diciembre;Kevin;Venta;Kimberly;10000082
+84;Blusa Cottons;niño;20;500;4/04/2020;Abril;Kevin;Venta;Marien;10000083
+85;Casaca Crop Impermeable M;adulto;50;600;11/05/2020;Mayo;Kevin;Venta;Patricia;10000084
+86;Casaca Crop Impermeable M;niño;30;100;28/12/2020;Diciembre;Kenny;Pedido;Cristian;10000085
+87;Jean Basico;adulto;20;200;1/09/2020;Setiembre;Kevin;Pedido;Piero;10000086
+88;Shompa tejida valentina;adulto;40;600;9/09/2020;Setiembre;Neisser;Venta;Moises;10000087
+89;Blusa manga larga Urbano;adulto;60;200;31/01/2020;Enero;Takashi;Venta;Marcelo;10000088
+90;Chompa newport;niño;30;600;24/12/2020;Diciembre;Takashi;Venta;Juleysi;10000089
+91;Leggings deportivo;adulto;20;120;25/06/2020;Junio;Takashi;Venta;Marie;10000090
+92;Poleron Vero;niño;60;100;11/10/2020;Octubre;Takashi;Venta;Mariela;10000091
+93;Short Urbano;adulto;50;500;19/06/2020;Junio;Neisser;Venta;Neisser;10000092
+94;Polo manga cero;adulto;20;320;22/04/2020;Abril;Neisser;Venta;Neisser;10000093
+95;Pantalon Urbano;niño;50;200;31/07/2020;Julio;Neisser;Venta;Neisser;10000094
+96;Blusa Cottons;adulto;30;250;17/01/2020;Enero;Neisser;Pedido;Neisser;10000095
+97;Casaca Crop Impermeable M;niño;20;100;6/08/2020;Agosto;Neisser;Pedido;Katyuska;10000096
+98;Casaca Crop Impermeable M;adulto;40;100;3/02/2020;Febrero;Kenny;Venta;Karla;10000097
+99;Jean Basico;niño;60;200;3/10/2020;Octubre;Takashi;Venta;Dani;10000098
+100;Shompa tejida valentina;adulto;30;200;23/06/2020;Junio;Kevin;Venta;Thiago;10000099
+101;Blusa manga larga Urbano;niño;20;1000;6/08/2020;Agosto;Neisser;Pedido;Jair;10000100
+102;Chompa newport;adulto;60;700;8/04/2020;Abril;Kenny;Venta;Karen;10000101
+103;Leggings deportivo;adulto;50;500;27/10/2020;Octubre;Takashi;Venta;Junior;10000102
+104;Poleron Vero;adulto;20;600;30/04/2020;Abril;Kevin;Venta;Martha;10000103
+105;Short Urbano;niño;50;100;4/04/2020;Abril;Neisser;Venta;Mariano;10000104
+106;Polo manga cero;adulto;30;200;27/08/2020;Agosto;Neisser;Pedido;Keyler;10000105
+107;Pantalon Urbano;niño;20;600;6/10/2020;Octubre;Neisser;Pedido;Jordi;10000106
+108;Blusa Cottons;adulto;40;200;27/10/2020;Octubre;Neisser;Venta;Segundo;10000107
+109;Casaca Crop Impermeable M;niño;60;600;3/07/2020;Julio;Kenny;Venta;Magdalena;10000108
+110;Casaca Crop Impermeable M;adulto;30;120;27/03/2020;Marzo;Takashi;Venta;Jessy;10000109
+111;Jean Basico;niño;20;100;15/08/2020;Agosto;Kevin;Pedido;Arimar;10000110
+112;Shompa tejida valentina;adulto;60;500;3/10/2020;Octubre;Neisser;Venta;Neisser;10000111
+113;Blusa manga larga Urbano;niño;50;320;11/07/2020;Julio;Neisser;Devolucion;Kevin;10000112
+114;Chompa newport;adulto;40;200;17/08/2020;Agosto;Neisser;Venta;Daniel;10000113
+115;Leggings deportivo;niño;60;250;22/01/2020;Enero;Neisser;Venta;Dayana;10000114
+116;Poleron Vero;adulto;30;100;1/10/2020;Octubre;Neisser;Pedido;Nataly;10000115
+117;Short Urbano;adulto;20;100;1/06/2020;Junio;Neisser;Devolucion;Diane;10000116
+118;Polo manga cero;adulto;60;200;17/01/2020;Enero;Takashi;Venta;Nicol;10000117
+119;Pantalon Urbano;niño;50;200;27/08/2020;Agosto;Neisser;Venta;Luis;10000118
+120;Blusa Cottons;adulto;20;1000;19/07/2020;Julio;Kenny;Venta;Lidia;10000119
+121;Casaca Crop Impermeable M;niño;50;700;20/04/2020;Abril;Takashi;Pedido;Teresa;10000120
+122;Casaca Crop Impermeable M;adulto;30;500;20/01/2020;Enero;Kevin;Venta;Agustina;10000121
+123;Jean Basico;adulto;20;600;22/11/2020;Noviembre;Neisser;Venta;Laura;10000122
+124;Shompa tejida valentina;adulto;40;100;3/02/2020;Febrero;Kenny;Venta;Fiorella;10000123
+125;Blusa manga larga Urbano;niño;60;200;5/05/2020;Mayo;Takashi;Venta;Augusto;10000124
+126;Chompa newport;adulto;30;600;29/07/2020;Julio;Kevin;Pedido;Dancy;10000125
+127;Leggings deportivo;niño;20;200;29/02/2020;Febrero;Neisser;Pedido;Takashi;10000126
+128;Poleron Vero;adulto;60;600;8/01/2020;Enero;Neisser;Venta;Hugo;10000127
+129;Short Urbano;adulto;50;120;27/07/2020;Julio;Neisser;Venta;Arilson;10000128
+130;Polo manga cero;adulto;20;100;11/04/2020;Abril;Neisser;Venta;Katerin;10000129
+131;Pantalon Urbano;niño;50;500;14/07/2020;Julio;Kenny;Pedido;Marilyn;10000130
+132;Blusa Cottons;adulto;30;320;11/12/2020;Diciembre;Takashi;Venta;Seydi;10000131
+133;Casaca Crop Impermeable M;niño;20;200;21/12/2020;Diciembre;Kevin;Venta;Kimberly;10000132
+134;Casaca Crop Impermeable M;adulto;40;250;14/10/2020;Octubre;Neisser;Venta;Marien;10000133
+135;Jean Basico;niño;60;100;4/10/2020;Octubre;Neisser;Venta;Patricia;10000134
+136;Shompa tejida valentina;adulto;30;100;7/01/2020;Enero;Neisser;Pedido;Cristian;10000135
+137;Blusa manga larga Urbano;niño;20;200;25/09/2020;Setiembre;Neisser;Pedido;Piero;10000136
+138;Chompa newport;adulto;60;200;27/11/2020;Noviembre;Neisser;Venta;Moises;10000137
+139;Leggings deportivo;niño;50;1000;29/12/2020;Diciembre;Neisser;Devolucion;Marcelo;10000138
+140;Poleron Vero;adulto;40;700;11/12/2020;Diciembre;Kenny;Venta;Juleysi;10000139
+141;Short Urbano;niño;60;500;17/04/2020;Abril;Takashi;Venta;Marie;10000140
+142;Polo manga cero;adulto;30;600;6/08/2020;Agosto;Kevin;Venta;Mariela;10000141
+143;Pantalon Urbano;adulto;20;100;8/10/2020;Octubre;Neisser;Devolucion;Neisser;10000142
+144;Blusa Cottons;adulto;60;200;5/06/2020;Junio;Kenny;Venta;Neisser;10000143
+145;Casaca Crop Impermeable M;niño;50;600;2/12/2020;Diciembre;Takashi;Venta;Neisser;10000144
+146;Casaca Crop Impermeable M;adulto;20;200;24/10/2020;Octubre;Kevin;Devolucion;Neisser;10000145
+147;Jean Basico;adulto;30;600;4/06/2020;Junio;Neisser;Venta;Katyuska;10000146
+148;Shompa tejida valentina;niño;20;120;20/10/2020;Octubre;Neisser;Venta;Karla;10000147
+149;Blusa manga larga Urbano;adulto;60;100;5/03/2020;Marzo;Neisser;Venta;Dani;10000148
+150;Chompa newport;adulto;50;500;10/05/2020;Mayo;Neisser;Devolucion;Thiago;10000149
+151;Leggings deportivo;niño;20;320;15/07/2020;Julio;Kenny;Pedido;Jair;10000150
+152;Poleron Vero;adulto;40;200;23/04/2020;Abril;Takashi;Venta;Karen;10000151
+153;Short Urbano;niño;20;250;21/10/2020;Octubre;Kevin;Venta;Junior;10000152
+154;Polo manga cero;adulto;30;100;3/08/2020;Mayo;Neisser;Venta;Martha;10000153
+155;Pantalon Urbano;niño;50;100;27/12/2020;Julio;Neisser;Venta;Mariano;10000154
+156;Blusa Cottons;adulto;30;200;21/09/2020;Abril;Neisser;Pedido;Keyler;10000155
+157;Casaca Crop Impermeable M;adulto;20;200;28/03/2020;Octubre;Neisser;Venta;Jordi;10000156
+158;Casaca Crop Impermeable M;adulto;60;1000;20/02/2020;Abril;Neisser;Venta;Segundo;10000157
+159;Jean Basico;adulto;60;700;23/07/2020;Junio;Neisser;Venta;Magdalena;10000158
+160;Shompa tejida valentina;adulto;50;500;18/12/2020;Agosto;Neisser;Pedido;Jessy;10000159
+161;Blusa manga larga Urbano;adulto;50;600;21/08/2020;Diciembre;Kenny;Venta;Arimar;10000160
+162;Chompa newport;niño;30;100;7/03/2020;Agosto;Takashi;Venta;Neisser;10000161
+163;Leggings deportivo;niño;30;200;3/06/2020;Julio;Kevin;Devolucion;Kevin;10000162
+164;Poleron Vero;adulto;20;600;11/02/2020;Junio;Neisser;Venta;Daniel;10000163
+165;Short Urbano;adulto;50;200;1/06/2020;Mayo;Kenny;Pedido;Dayana;10000164
+166;Polo manga cero;niño;30;600;3/09/2020;Julio;Takashi;Pedido;Nataly;10000165
+167;Pantalon Urbano;adulto;20;120;4/05/2020;Junio;Kevin;Venta;Diane;10000166
+168;Blusa Cottons;niño;40;100;20/05/2020;Abril;Neisser;Devolucion;Nicol;10000167
+169;Casaca Crop Impermeable M;adulto;60;500;5/12/2020;Abril;Neisser;Venta;Luis;10000168
+170;Casaca Crop Impermeable M;adulto;30;320;3/05/2020;Agosto;Neisser;Devolucion;Lidia;10000169
+171;Jean Basico;niño;20;200;4/03/2020;Noviembre;Neisser;Venta;Teresa;10000170
+172;Shompa tejida valentina;adulto;60;250;24/04/2020;Marzo;Kenny;Venta;Agustina;10000171
+173;Blusa manga larga Urbano;niño;50;100;22/01/2020;Diciembre;Takashi;Venta;Laura;10000172
+174;Chompa newport;adulto;20;100;13/07/2020;Julio;Kevin;Devolucion;Fiorella;10000173
+175;Leggings deportivo;adulto;50;200;17/02/2020;Octubre;Neisser;Devolucion;Augusto;10000174
+176;Poleron Vero;adulto;30;200;12/02/2020;Mayo;Neisser;Devolucion;Dancy;10000175
+177;Short Urbano;niño;20;1000;19/11/2020;Octubre;Neisser;Venta;Takashi;10000176
+178;Polo manga cero;adulto;40;700;31/07/2020;Noviembre;Neisser;Venta;Hugo;10000177
+179;Pantalon Urbano;niño;60;500;14/02/2020;Febrero;Neisser;Venta;Arilson;10000178
+180;Blusa Cottons;adulto;30;600;6/02/2020;Octubre;Neisser;Pedido;Katerin;10000179
+181;Casaca Crop Impermeable M;adulto;20;100;20/12/2020;Mayo;Takashi;Venta;Marilyn;10000180
+182;Casaca Crop Impermeable M;niño;60;200;25/08/2020;Noviembre;Neisser;Devolucion;Seydi;10000181
+183;Jean Basico;adulto;50;600;4/07/2020;Julio;Takashi;Venta;Kimberly;10000182
+184;Shompa tejida valentina;niño;20;200;20/09/2020;Marzo;Neisser;Venta;Marien;10000183
+185;Blusa manga larga Urbano;adulto;50;600;18/11/2020;Mayo;Takashi;Devolucion;Patricia;10000184
+186;Chompa newport;niño;30;120;27/09/2020;Noviembre;Neisser;Pedido;Cristian;10000185
+187;Leggings deportivo;adulto;20;100;13/12/2020;Octubre;Takashi;Venta;Piero;10000186
+188;Poleron Vero;niño;40;500;20/07/2020;Marzo;Neisser;Venta;Moises;10000187
+189;Short Urbano;adulto;60;320;3/08/2020;Junio;Takashi;Venta;Marcelo;10000188
+190;Polo manga cero;adulto;30;200;27/12/2020;Mayo;Neisser;Venta;Juleysi;10000189
+191;Pantalon Urbano;adulto;20;250;21/09/2020;Julio;Takashi;Venta;Marie;10000190
+192;Blusa Cottons;niño;60;100;28/03/2020;Diciembre;Takashi;Venta;Mariela;10000191
+193;Casaca Crop Impermeable M;adulto;50;100;20/02/2020;Octubre;Neisser;Venta;Neisser;10000192
+194;Casaca Crop Impermeable M;niño;20;200;23/07/2020;Setiembre;Takashi;Venta;Neisser;10000193
+195;Jean Basico;adulto;30;200;18/12/2020;Diciembre;Takashi;Pedido;Neisser;10000194
+196;Shompa tejida valentina;niño;20;1000;11/02/2020;Febrero;Takashi;Pedido;Neisser;10000195
+197;Blusa manga larga Urbano;adulto;60;700;1/06/2020;Junio;Neisser;Venta;Katyuska;10000196
+198;Chompa newport;niño;50;500;3/09/2020;Noviembre;Takashi;Venta;Karla;10000197
+199;Leggings deportivo;adulto;20;600;4/05/2020;Junio;Neisser;Venta;Dani;10000198
+200;Poleron Vero;adulto;50;100;20/05/2020;Marzo;Takashi;Pedido;Thiago;10000199
+201;Short Urbano;adulto;30;200;5/12/2020;Noviembre;Takashi;Venta;Jair;10000200
+202;Polo manga cero;niño;20;600;3/05/2020;Agosto;Kenny;Venta;Karen;10000201
+203;Pantalon Urbano;adulto;40;200;4/03/2020;Marzo;Takashi;Venta;Junior;10000202
+204;Blusa Cottons;niño;60;600;24/04/2020;Junio;Kenny;Venta;Martha;10000203
+205;Casaca Crop Impermeable M;adulto;30;120;22/01/2020;Febrero;Takashi;Pedido;Mariano;10000204
+206;Casaca Crop Impermeable M;adulto;20;100;13/07/2020;Junio;Neisser;Pedido;Keyler;10000205
+207;Jean Basico;adulto;20;500;17/02/2020;Setiembre;Neisser;Venta;Jordi;10000206
+208;Shompa tejida valentina;adulto;20;320;12/02/2020;Mayo;Kenny;Venta;Segundo;10000207
+209;Blusa manga larga Urbano;niño;50;200;19/11/2020;Mayo;Neisser;Venta;Magdalena;10000208
+210;Chompa newport;adulto;20;250;31/07/2020;Diciembre;Neisser;Venta;Jessy;10000209
+211;Leggings deportivo;adulto;50;100;14/02/2020;Mayo;Kenny;Venta;Arimar;10000210
+212;Poleron Vero;adulto;30;100;6/02/2020;Marzo;Kenny;Venta;Neisser;10000211
+213;Short Urbano;niño;20;200;20/12/2020;Abril;Neisser;Venta;Kevin;10000212
+214;Polo manga cero;adulto;40;200;25/08/2020;Enero;Takashi;Venta;Daniel;10000213
+215;Pantalon Urbano;niño;60;1000;4/07/2020;Julio;Neisser;Devolucion;Dayana;10000214
+216;Blusa Cottons;adulto;30;700;20/09/2020;Febrero;Takashi;Pedido;Nataly;10000215
+217;Casaca Crop Impermeable M;adulto;20;500;18/11/2020;Febrero;Neisser;Venta;Diane;10000216
+218;Casaca Crop Impermeable M;niño;60;600;27/09/2020;Noviembre;Takashi;Venta;Nicol;10000217
+219;Jean Basico;adulto;50;100;13/12/2020;Julio;Neisser;Venta;Luis;10000218
+220;Shompa tejida valentina;niño;20;200;20/07/2020;Febrero;Takashi;Pedido;Lidia;10000219
+221;Blusa manga larga Urbano;adulto;50;600;3/08/2020;Febrero;Neisser;Venta;Teresa;10000220
+222;Chompa newport;niño;30;200;27/12/2020;Diciembre;Neisser;Venta;Agustina;10000221
+223;Leggings deportivo;adulto;20;600;21/09/2020;Agosto;Takashi;Venta;Laura;10000222
+224;Poleron Vero;niño;40;120;28/03/2020;Julio;Kenny;Venta;Fiorella;10000223
+225;Short Urbano;adulto;50;100;20/02/2020;Setiembre;Kenny;Pedido;Augusto;10000224
+226;Polo manga cero;niño;30;500;23/07/2020;Noviembre;Kenny;Venta;Dancy;10000225
+227;Pantalon Urbano;adulto;20;320;18/12/2020;Setiembre;Neisser;Venta;Takashi;10000226
+228;Blusa Cottons;niño;40;200;21/08/2020;Diciembre;Kenny;Venta;Hugo;10000227
+229;Casaca Crop Impermeable M;adulto;60;250;7/03/2020;Julio;Kenny;Venta;Arilson;10000228
+230;Casaca Crop Impermeable M;niño;30;100;3/06/2020;Agosto;Takashi;Pedido;Katerin;10000229
+231;Jean Basico;adulto;20;100;11/02/2020;Diciembre;Kenny;Venta;Marilyn;10000230
+232;Shompa tejida valentina;niño;60;200;1/06/2020;Setiembre;Kenny;Venta;Seydi;10000231
+233;Blusa manga larga Urbano;adulto;50;200;3/09/2020;Marzo;Neisser;Venta;Kimberly;10000232
+234;Chompa newport;adulto;50;1000;4/05/2020;Febrero;Kenny;Venta;Marien;10000233
+235;Leggings deportivo;adulto;30;700;20/05/2020;Julio;Kevin;Pedido;Patricia;10000234
+236;Poleron Vero;niño;20;500;5/12/2020;Diciembre;Kenny;Devolucion;Cristian;10000235
+237;Short Urbano;adulto;40;600;3/05/2020;Enero;Kenny;Venta;Piero;10000236
+238;Polo manga cero;niño;60;100;4/03/2020;Setiembre;Takashi;Devolucion;Moises;10000237
+239;Pantalon Urbano;adulto;30;200;24/04/2020;Mayo;Kevin;Venta;Marcelo;10000238
+240;Blusa Cottons;niño;20;600;22/01/2020;Marzo;Takashi;Pedido;Juleysi;10000239
+241;Casaca Crop Impermeable M;adulto;60;200;13/07/2020;Febrero;Kevin;Venta;Marie;10000240
+242;Casaca Crop Impermeable M;adulto;50;600;17/02/2020;Diciembre;Kevin;Venta;Mariela;10000241
+243;Jean Basico;niño;20;120;12/02/2020;Abril;Kevin;Venta;Neisser;10000242
+244;Shompa tejida valentina;adulto;50;100;19/11/2020;Mayo;Kevin;Venta;Neisser;10000243
+245;Blusa manga larga Urbano;niño;30;500;31/07/2020;Diciembre;Kenny;Pedido;Neisser;10000244
+246;Chompa newport;adulto;20;320;14/02/2020;Setiembre;Kevin;Pedido;Neisser;10000245
+247;Leggings deportivo;adulto;40;200;6/02/2020;Setiembre;Neisser;Venta;Katyuska;10000246
+248;Poleron Vero;adulto;60;250;20/12/2020;Enero;Takashi;Venta;Karla;10000247
+249;Short Urbano;niño;30;100;25/08/2020;Diciembre;Takashi;Venta;Dani;10000248
+250;Polo manga cero;adulto;20;100;4/07/2020;Junio;Takashi;Venta;Thiago;10000249
+251;Pantalon Urbano;niño;60;200;20/09/2020;Octubre;Takashi;Venta;Jair;10000250
+252;Blusa Cottons;adulto;50;200;18/11/2020;Junio;Neisser;Venta;Karen;10000251
+253;Casaca Crop Impermeable M;adulto;20;1000;27/09/2020;Abril;Neisser;Venta;Junior;10000252
+254;Casaca Crop Impermeable M;niño;50;700;13/12/2020;Julio;Neisser;Venta;Martha;10000253
+255;Jean Basico;adulto;30;500;20/07/2020;Enero;Neisser;Pedido;Mariano;10000254
+256;Shompa tejida valentina;niño;20;600;3/08/2020;Agosto;Neisser;Pedido;Keyler;10000255
+257;Blusa manga larga Urbano;adulto;40;100;27/12/2020;Febrero;Kenny;Venta;Jordi;10000256
+258;Chompa newport;niño;60;200;21/09/2020;Octubre;Takashi;Venta;Segundo;10000257
+259;Leggings deportivo;adulto;30;600;28/03/2020;Junio;Kevin;Venta;Magdalena;10000258
+260;Poleron Vero;niño;20;200;20/02/2020;Agosto;Neisser;Pedido;Jessy;10000259
+261;Short Urbano;adulto;60;600;23/07/2020;Abril;Kenny;Venta;Arimar;10000260
+262;Polo manga cero;adulto;50;120;18/12/2020;Octubre;Takashi;Venta;Neisser;10000261
+263;Pantalon Urbano;adulto;20;100;1/01/2020;Abril;Kevin;Venta;Kevin;10000262
+264;Blusa Cottons;niño;50;500;17/09/2020;Abril;Neisser;Venta;Daniel;10000263
+265;Casaca Crop Impermeable M;adulto;30;320;10/05/2020;Agosto;Neisser;Pedido;Dayana;10000264
+266;Casaca Crop Impermeable M;niño;20;200;9/03/2020;Octubre;Neisser;Pedido;Nataly;10000265
+267;Jean Basico;adulto;40;250;20/02/2020;Octubre;Neisser;Venta;Diane;10000266
+268;Shompa tejida valentina;niño;60;100;28/12/2020;Julio;Kenny;Venta;Nicol;10000267
+269;Blusa manga larga Urbano;adulto;30;100;4/04/2020;Marzo;Takashi;Venta;Luis;10000268
+270;Chompa newport;niño;20;200;11/05/2020;Agosto;Kevin;Pedido;Lidia;10000269
+271;Leggings deportivo;adulto;60;200;28/12/2020;Octubre;Neisser;Venta;Teresa;10000270
+272;Poleron Vero;niño;50;1000;1/09/2020;Julio;Neisser;Devolucion;Agustina;10000271
+273;Short Urbano;adulto;40;700;9/09/2020;Agosto;Neisser;Venta;Laura;10000272
+274;Polo manga cero;niño;60;500;31/01/2020;Enero;Neisser;Venta;Fiorella;10000273
+275;Pantalon Urbano;adulto;30;600;24/12/2020;Octubre;Neisser;Pedido;Augusto;10000274
+276;Blusa Cottons;adulto;20;100;25/06/2020;Junio;Neisser;Devolucion;Dancy;10000275
+277;Casaca Crop Impermeable M;adulto;60;200;11/10/2020;Enero;Takashi;Venta;Takashi;10000276
+278;Casaca Crop Impermeable M;niño;50;600;19/06/2020;Agosto;Neisser;Venta;Hugo;10000277
+279;Jean Basico;adulto;20;200;22/04/2020;Julio;Kenny;Venta;Arilson;10000278
+280;Shompa tejida valentina;niño;50;600;31/07/2020;Abril;Takashi;Pedido;Katerin;10000279
+281;Blusa manga larga Urbano;adulto;30;120;17/01/2020;Enero;Kevin;Venta;Marilyn;10000280
+282;Chompa newport;adulto;20;100;6/08/2020;Noviembre;Neisser;Venta;Seydi;10000281
+283;Leggings deportivo;adulto;40;500;3/02/2020;Febrero;Kenny;Venta;Kimberly;10000282
+284;Poleron Vero;niño;60;320;3/10/2020;Mayo;Takashi;Venta;Marien;10000283
+285;Short Urbano;adulto;30;200;23/06/2020;Julio;Kevin;Pedido;Patricia;10000284
+286;Polo manga cero;niño;20;250;6/08/2020;Febrero;Neisser;Pedido;Cristian;10000285
+287;Pantalon Urbano;adulto;60;100;8/04/2020;Enero;Neisser;Venta;Piero;10000286
+288;Blusa Cottons;adulto;50;100;27/10/2020;Julio;Neisser;Venta;Moises;10000287
+289;Casaca Crop Impermeable M;adulto;20;200;30/04/2020;Abril;Neisser;Venta;Marcelo;10000288
+290;Casaca Crop Impermeable M;niño;50;200;4/04/2020;Julio;Kenny;Pedido;Juleysi;10000289
+291;Jean Basico;adulto;30;1000;27/08/2020;Diciembre;Takashi;Venta;Marie;10000290
+292;Shompa tejida valentina;niño;20;700;6/10/2020;Diciembre;Kevin;Venta;Mariela;10000291
+293;Blusa manga larga Urbano;adulto;40;500;27/10/2020;Octubre;Neisser;Venta;Neisser;10000292
+294;Chompa newport;niño;60;600;3/07/2020;Octubre;Neisser;Venta;Neisser;10000293
+295;Leggings deportivo;adulto;30;100;27/03/2020;Enero;Neisser;Pedido;Neisser;10000294
+296;Poleron Vero;niño;20;200;15/08/2020;Setiembre;Neisser;Pedido;Neisser;10000295
+297;Short Urbano;adulto;60;600;3/10/2020;Noviembre;Neisser;Venta;Katyuska;10000296
+298;Polo manga cero;niño;50;200;11/07/2020;Diciembre;Neisser;Devolucion;Karla;10000297
+299;Pantalon Urbano;adulto;40;600;17/08/2020;Diciembre;Kenny;Venta;Dani;10000298
+300;Blusa Cottons;niño;60;120;22/01/2020;Abril;Takashi;Venta;Thiago;10000299
+301;Casaca Crop Impermeable M;adulto;30;100;1/10/2020;Agosto;Kevin;Venta;Jair;10000300
+302;Casaca Crop Impermeable M;adulto;20;500;1/06/2020;Octubre;Neisser;Devolucion;Karen;10000301
+303;Jean Basico;adulto;60;320;17/01/2020;Junio;Kenny;Venta;Junior;10000302
+304;Shompa tejida valentina;niño;50;200;27/08/2020;Diciembre;Takashi;Venta;Martha;10000303
+305;Blusa manga larga Urbano;adulto;20;250;19/07/2020;Octubre;Kevin;Devolucion;Mariano;10000304
+306;Chompa newport;adulto;30;100;20/04/2020;Junio;Neisser;Venta;Keyler;10000305
+307;Leggings deportivo;niño;20;100;20/01/2020;Octubre;Neisser;Venta;Jordi;10000306
+308;Poleron Vero;adulto;60;200;22/11/2020;Marzo;Neisser;Venta;Segundo;10000307
+309;Short Urbano;adulto;50;200;3/02/2020;Mayo;Neisser;Devolucion;Magdalena;10000308
+310;Polo manga cero;niño;20;1000;5/05/2020;Julio;Kenny;Pedido;Jessy;10000309
+311;Pantalon Urbano;adulto;40;700;29/07/2020;Abril;Takashi;Venta;Arimar;10000310
+312;Blusa Cottons;niño;20;500;29/02/2020;Octubre;Kevin;Venta;Neisser;10000311
+313;Casaca Crop Impermeable M;adulto;30;600;8/01/2020;Mayo;Neisser;Venta;Kevin;10000312
+314;Casaca Crop Impermeable M;niño;50;100;27/07/2020;Julio;Neisser;Venta;Daniel;10000313
+315;Jean Basico;adulto;30;200;11/04/2020;Abril;Neisser;Pedido;Dayana;10000314
+316;Shompa tejida valentina;adulto;20;600;14/07/2020;Octubre;Neisser;Venta;Nataly;10000315
+317;Blusa manga larga Urbano;adulto;60;200;11/12/2020;Abril;Neisser;Venta;Diane;10000316
+318;Chompa newport;adulto;60;600;21/12/2020;Junio;Neisser;Venta;Nicol;10000317
+319;Leggings deportivo;adulto;50;120;14/10/2020;Agosto;Neisser;Pedido;Luis;10000318
+320;Poleron Vero;adulto;50;100;4/10/2020;Diciembre;Kenny;Venta;Lidia;10000319
+321;Short Urbano;niño;30;500;7/01/2020;Agosto;Takashi;Venta;Teresa;10000320
+322;Polo manga cero;niño;30;320;25/09/2020;Julio;Kevin;Devolucion;Agustina;10000321
+323;Pantalon Urbano;adulto;20;200;27/11/2020;Junio;Neisser;Venta;Laura;10000322
+324;Blusa Cottons;adulto;50;250;29/12/2020;Mayo;Kenny;Pedido;Fiorella;10000323
+325;Casaca Crop Impermeable M;niño;30;100;11/12/2020;Julio;Takashi;Pedido;Augusto;10000324
+326;Casaca Crop Impermeable M;adulto;20;100;17/04/2020;Junio;Kevin;Venta;Dancy;10000325
+327;Jean Basico;niño;40;200;6/08/2020;Abril;Neisser;Devolucion;Takashi;10000326
+328;Shompa tejida valentina;adulto;60;200;8/10/2020;Abril;Neisser;Venta;Hugo;10000327
+329;Blusa manga larga Urbano;adulto;30;1000;5/06/2020;Agosto;Neisser;Devolucion;Arilson;10000328
+330;Chompa newport;niño;20;700;2/12/2020;Noviembre;Neisser;Venta;Katerin;10000329
+331;Leggings deportivo;adulto;60;500;24/10/2020;Marzo;Kenny;Venta;Marilyn;10000330
+332;Poleron Vero;niño;50;600;4/06/2020;Diciembre;Takashi;Venta;Seydi;10000331
+333;Casaca Crop Impermeable M;adulto;20;100;20/10/2020;Julio;Kevin;Devolucion;Kimberly;10000332
+334;Casaca Crop Impermeable M;adulto;50;200;5/03/2020;Octubre;Neisser;Devolucion;Marien;10000333
+335;Jean Basico;adulto;30;600;10/05/2020;Mayo;Neisser;Devolucion;Patricia;10000334
+336;Shompa tejida valentina;niño;20;200;15/07/2020;Octubre;Neisser;Venta;Cristian;10000335
+337;Blusa manga larga Urbano;adulto;40;600;23/04/2020;Noviembre;Neisser;Venta;Piero;10000336
+338;Chompa newport;niño;60;120;21/10/2020;Febrero;Neisser;Venta;Moises;10000337
+339;Leggings deportivo;adulto;30;100;3/08/2020;Octubre;Neisser;Pedido;Marcelo;10000338
+340;Poleron Vero;adulto;20;500;27/12/2020;Mayo;Takashi;Venta;Juleysi;10000339
+341;Short Urbano;niño;60;320;21/09/2020;Noviembre;Neisser;Devolucion;Marie;10000340
+342;Polo manga cero;adulto;50;200;28/03/2020;Julio;Takashi;Venta;Mariela;10000341
+343;Pantalon Urbano;niño;20;250;20/02/2020;Marzo;Neisser;Venta;Neisser;10000342
+344;Blusa Cottons;adulto;50;100;11/02/2020;Mayo;Takashi;Devolucion;Neisser;10000343
+345;Casaca Crop Impermeable M;niño;30;100;1/06/2020;Noviembre;Neisser;Pedido;Neisser;10000344
+346;Casaca Crop Impermeable M;adulto;20;200;3/09/2020;Octubre;Takashi;Venta;Neisser;10000345
+347;Jean Basico;niño;40;200;4/05/2020;Marzo;Neisser;Venta;Katyuska;10000346
+348;Shompa tejida valentina;adulto;60;1000;20/05/2020;Junio;Takashi;Venta;Karla;10000347
+349;Blusa manga larga Urbano;adulto;30;700;5/12/2020;Mayo;Neisser;Venta;Dani;10000348
+350;Chompa newport;adulto;20;500;3/05/2020;Julio;Takashi;Venta;Thiago;10000349
+351;Leggings deportivo;niño;60;600;4/03/2020;Diciembre;Takashi;Venta;Jair;10000350
+352;Poleron Vero;adulto;50;100;24/04/2020;Octubre;Neisser;Venta;Karen;10000351
+353;Short Urbano;niño;20;200;22/01/2020;Setiembre;Takashi;Venta;Junior;10000352
+354;Polo manga cero;adulto;30;600;13/07/2020;Diciembre;Takashi;Pedido;Martha;10000353
+355;Pantalon Urbano;niño;20;200;17/02/2020;Febrero;Takashi;Pedido;Mariano;10000354
+356;Blusa Cottons;adulto;60;600;12/02/2020;Junio;Neisser;Venta;Keyler;10000355
+357;Casaca Crop Impermeable M;niño;50;120;19/11/2020;Noviembre;Takashi;Venta;Jordi;10000356
+358;Casaca Crop Impermeable M;adulto;20;100;31/07/2020;Junio;Neisser;Venta;Segundo;10000357
+359;Jean Basico;adulto;50;500;14/02/2020;Marzo;Takashi;Pedido;Magdalena;10000358
+360;Shompa tejida valentina;adulto;30;320;6/02/2020;Noviembre;Takashi;Venta;Jessy;10000359
+361;Blusa manga larga Urbano;niño;20;200;20/12/2020;Agosto;Kenny;Venta;Arimar;10000360
+362;Chompa newport;adulto;40;250;25/08/2020;Marzo;Takashi;Venta;Neisser;10000361
+363;Leggings deportivo;niño;60;100;4/07/2020;Junio;Kenny;Venta;Kevin;10000362
+364;Poleron Vero;adulto;30;100;20/09/2020;Febrero;Takashi;Pedido;Daniel;10000363
+365;Short Urbano;adulto;20;200;18/11/2020;Junio;Neisser;Pedido;Dayana;10000364
+366;Polo manga cero;adulto;20;200;27/09/2020;Setiembre;Neisser;Venta;Nataly;10000365
+367;Pantalon Urbano;adulto;20;1000;13/12/2020;Mayo;Kenny;Venta;Diane;10000366
+368;Blusa Cottons;niño;50;700;20/07/2020;Mayo;Neisser;Venta;Nicol;10000367
+369;Casaca Crop Impermeable M;adulto;20;500;3/08/2020;Diciembre;Neisser;Venta;Luis;10000368
+370;Casaca Crop Impermeable M;adulto;50;600;27/12/2020;Mayo;Kenny;Venta;Lidia;10000369
+371;Jean Basico;adulto;30;100;21/09/2020;Marzo;Kenny;Venta;Teresa;10000370
+372;Shompa tejida valentina;niño;20;200;28/03/2020;Abril;Neisser;Venta;Agustina;10000371
+373;Blusa manga larga Urbano;adulto;40;600;20/02/2020;Enero;Takashi;Venta;Laura;10000372
+374;Chompa newport;niño;60;200;23/07/2020;Julio;Neisser;Devolucion;Fiorella;10000373
+375;Leggings deportivo;adulto;30;600;18/12/2020;Febrero;Takashi;Pedido;Augusto;10000374
+376;Poleron Vero;adulto;20;120;21/08/2020;Febrero;Neisser;Venta;Dancy;10000375
+377;Short Urbano;niño;60;100;7/03/2020;Noviembre;Takashi;Venta;Takashi;10000376
+378;Polo manga cero;adulto;50;500;3/06/2020;Julio;Neisser;Venta;Hugo;10000377
+379;Pantalon Urbano;niño;20;320;11/02/2020;Febrero;Takashi;Pedido;Arilson;10000378
+380;Blusa Cottons;adulto;50;200;1/06/2020;Febrero;Neisser;Venta;Katerin;10000379
+381;Casaca Crop Impermeable M;niño;30;250;3/09/2020;Diciembre;Neisser;Venta;Marilyn;10000380
+382;Casaca Crop Impermeable M;adulto;20;100;4/05/2020;Agosto;Takashi;Venta;Seydi;10000381
+383;Jean Basico;niño;40;100;20/05/2020;Julio;Kenny;Venta;Kimberly;10000382
+384;Shompa tejida valentina;adulto;50;200;5/12/2020;Setiembre;Kenny;Pedido;Marien;10000383
+385;Blusa manga larga Urbano;niño;30;200;3/05/2020;Noviembre;Kenny;Venta;Patricia;10000384
+386;Chompa newport;adulto;20;1000;4/03/2020;Setiembre;Neisser;Venta;Cristian;10000385
+387;Leggings deportivo;niño;40;700;24/04/2020;Diciembre;Kenny;Venta;Piero;10000386
+388;Poleron Vero;adulto;60;500;22/01/2020;Julio;Kenny;Venta;Moises;10000387
+389;Short Urbano;niño;30;600;13/07/2020;Agosto;Takashi;Pedido;Marcelo;10000388
+390;Polo manga cero;adulto;20;100;17/02/2020;Diciembre;Kenny;Venta;Juleysi;10000389
+391;Pantalon Urbano;niño;60;200;12/02/2020;Setiembre;Kenny;Venta;Marie;10000390
+392;Blusa Cottons;adulto;50;600;19/11/2020;Marzo;Neisser;Venta;Mariela;10000391
+393;Casaca Crop Impermeable M;adulto;50;200;31/07/2020;Febrero;Kenny;Venta;Neisser;10000392
+394;Casaca Crop Impermeable M;adulto;30;600;14/02/2020;Julio;Kevin;Pedido;Neisser;10000393
+395;Jean Basico;niño;20;120;6/02/2020;Diciembre;Kenny;Devolucion;Neisser;10000394
+396;Shompa tejida valentina;adulto;40;100;20/12/2020;Enero;Kenny;Venta;Neisser;10000395
+397;Blusa manga larga Urbano;niño;60;500;25/08/2020;Setiembre;Takashi;Devolucion;Katyuska;10000396
+398;Chompa newport;adulto;30;320;4/07/2020;Mayo;Kevin;Venta;Karla;10000397
+399;Leggings deportivo;niño;20;200;20/09/2020;Marzo;Takashi;Pedido;Dani;10000398
+400;Poleron Vero;adulto;60;250;18/11/2020;Febrero;Kevin;Venta;Thiago;10000399
+401;Short Urbano;adulto;50;100;27/09/2020;Diciembre;Kevin;Venta;Jair;10000400
+402;Polo manga cero;niño;20;100;13/12/2020;Abril;Kevin;Venta;Karen;10000401
+403;Pantalon Urbano;adulto;50;200;20/07/2020;Mayo;Kevin;Venta;Junior;10000402
+404;Blusa Cottons;niño;30;200;3/08/2020;Diciembre;Kenny;Pedido;Martha;10000403
+405;Casaca Crop Impermeable M;adulto;20;1000;27/12/2020;Setiembre;Kevin;Pedido;Mariano;10000404
+406;Casaca Crop Impermeable M;adulto;40;700;21/09/2020;Setiembre;Neisser;Venta;Keyler;10000405
+407;Jean Basico;adulto;60;500;28/03/2020;Enero;Takashi;Venta;Jordi;10000406
+408;Shompa tejida valentina;niño;30;600;20/02/2020;Diciembre;Takashi;Venta;Segundo;10000407
+409;Blusa manga larga Urbano;adulto;20;100;23/07/2020;Junio;Takashi;Venta;Magdalena;10000408
+410;Chompa newport;niño;60;200;18/12/2020;Octubre;Takashi;Venta;Jessy;10000409
+411;Leggings deportivo;adulto;50;600;1/01/2020;Junio;Neisser;Venta;Arimar;10000410
+412;Poleron Vero;adulto;20;200;17/09/2020;Abril;Neisser;Venta;Neisser;10000411
+413;Short Urbano;niño;50;600;10/05/2020;Julio;Neisser;Venta;Kevin;10000412
+414;Polo manga cero;adulto;30;120;9/03/2020;Enero;Neisser;Pedido;Daniel;10000413
+415;Pantalon Urbano;niño;20;100;20/02/2020;Agosto;Neisser;Pedido;Dayana;10000414
+416;Blusa Cottons;adulto;40;500;28/12/2020;Febrero;Kenny;Venta;Nataly;10000415
+417;Casaca Crop Impermeable M;niño;60;320;4/04/2020;Octubre;Takashi;Venta;Diane;10000416
+418;Casaca Crop Impermeable M;adulto;30;200;11/05/2020;Junio;Kevin;Venta;Nicol;10000417
+419;Jean Basico;niño;20;250;28/12/2020;Agosto;Neisser;Pedido;Luis;10000418
+420;Shompa tejida valentina;adulto;60;100;1/09/2020;Abril;Kenny;Venta;Lidia;10000419
+421;Blusa manga larga Urbano;adulto;50;100;9/09/2020;Octubre;Takashi;Venta;Teresa;10000420
+422;Chompa newport;adulto;20;200;31/01/2020;Abril;Kevin;Venta;Agustina;10000421
+423;Leggings deportivo;niño;50;200;24/12/2020;Abril;Neisser;Venta;Laura;10000422
+424;Poleron Vero;adulto;30;1000;25/06/2020;Agosto;Neisser;Pedido;Fiorella;10000423
+425;Short Urbano;niño;20;700;11/10/2020;Octubre;Neisser;Pedido;Augusto;10000424
+426;Polo manga cero;adulto;40;500;19/06/2020;Octubre;Neisser;Venta;Dancy;10000425
+427;Pantalon Urbano;niño;60;600;22/04/2020;Julio;Kenny;Venta;Takashi;10000426
+428;Blusa Cottons;adulto;30;100;31/07/2020;Marzo;Takashi;Venta;Hugo;10000427
+429;Casaca Crop Impermeable M;niño;20;200;17/01/2020;Agosto;Kevin;Pedido;Arilson;10000428
+430;Casaca Crop Impermeable M;adulto;60;600;6/08/2020;Octubre;Neisser;Venta;Katerin;10000429
+431;Jean Basico;niño;50;200;3/02/2020;Julio;Neisser;Devolucion;Marilyn;10000430
+432;Shompa tejida valentina;adulto;40;600;3/10/2020;Agosto;Neisser;Venta;Seydi;10000431
+433;Blusa manga larga Urbano;niño;60;120;23/06/2020;Enero;Neisser;Venta;Kimberly;10000432
+434;Chompa newport;adulto;30;100;6/08/2020;Octubre;Neisser;Pedido;Marien;10000433
+435;Leggings deportivo;adulto;20;500;8/04/2020;Junio;Neisser;Devolucion;Patricia;10000434
+436;Poleron Vero;adulto;60;320;27/10/2020;Enero;Takashi;Venta;Cristian;10000435
+437;Short Urbano;niño;50;200;30/04/2020;Agosto;Neisser;Venta;Piero;10000436
+438;Polo manga cero;adulto;20;250;4/04/2020;Julio;Kenny;Venta;Moises;10000437
+439;Pantalon Urbano;niño;50;100;27/08/2020;Abril;Takashi;Pedido;Marcelo;10000438
+440;Blusa Cottons;adulto;30;100;6/10/2020;Enero;Kevin;Venta;Juleysi;10000439
+441;Casaca Crop Impermeable M;adulto;20;200;27/10/2020;Noviembre;Neisser;Venta;Marie;10000440
+442;Casaca Crop Impermeable M;adulto;40;200;3/07/2020;Febrero;Kenny;Venta;Mariela;10000441
+443;Jean Basico;niño;60;1000;27/03/2020;Mayo;Takashi;Venta;Neisser;10000442
+444;Shompa tejida valentina;adulto;30;700;15/08/2020;Julio;Kevin;Pedido;Neisser;10000443
+445;Blusa manga larga Urbano;niño;20;500;3/10/2020;Febrero;Neisser;Pedido;Neisser;10000444
+446;Chompa newport;adulto;60;600;11/07/2020;Enero;Neisser;Venta;Neisser;10000445
+447;Leggings deportivo;adulto;50;100;17/08/2020;Julio;Neisser;Venta;Katyuska;10000446
+448;Poleron Vero;adulto;20;200;22/01/2020;Abril;Neisser;Venta;Karla;10000447
+449;Short Urbano;niño;50;600;1/10/2020;Julio;Kenny;Pedido;Dani;10000448
+450;Polo manga cero;adulto;30;200;1/06/2020;Diciembre;Takashi;Venta;Thiago;10000449
+451;Pantalon Urbano;niño;20;600;17/01/2020;Diciembre;Kevin;Venta;Jair;10000450
+452;Blusa Cottons;adulto;40;120;27/08/2020;Octubre;Neisser;Venta;Karen;10000451
+453;Casaca Crop Impermeable M;niño;60;100;19/07/2020;Octubre;Neisser;Venta;Junior;10000452
+454;Casaca Crop Impermeable M;adulto;30;500;20/04/2020;Enero;Neisser;Pedido;Martha;10000453
+455;Jean Basico;niño;20;320;20/01/2020;Setiembre;Neisser;Pedido;Mariano;10000454
+456;Shompa tejida valentina;adulto;60;200;22/11/2020;Noviembre;Neisser;Venta;Keyler;10000455
+457;Blusa manga larga Urbano;niño;50;250;3/02/2020;Diciembre;Neisser;Devolucion;Jordi;10000456
+458;Chompa newport;adulto;40;100;5/05/2020;Diciembre;Kenny;Venta;Segundo;10000457
+459;Leggings deportivo;niño;60;100;29/07/2020;Abril;Takashi;Venta;Magdalena;10000458
+460;Poleron Vero;adulto;30;200;29/02/2020;Agosto;Kevin;Venta;Jessy;10000459
+461;Short Urbano;adulto;20;200;8/01/2020;Octubre;Neisser;Devolucion;Arimar;10000460
+462;Polo manga cero;adulto;60;1000;27/07/2020;Junio;Kenny;Venta;Neisser;10000461
+463;Pantalon Urbano;niño;50;700;11/04/2020;Diciembre;Takashi;Venta;Kevin;10000462
+464;Blusa Cottons;adulto;20;500;14/07/2020;Octubre;Kevin;Devolucion;Daniel;10000463
+465;Casaca Crop Impermeable M;adulto;30;600;11/12/2020;Junio;Neisser;Venta;Dayana;10000464
+466;Casaca Crop Impermeable M;niño;20;100;21/12/2020;Octubre;Neisser;Venta;Nataly;10000465
+467;Jean Basico;adulto;60;200;14/10/2020;Marzo;Neisser;Venta;Diane;10000466
+468;Shompa tejida valentina;adulto;50;600;4/10/2020;Mayo;Neisser;Devolucion;Nicol;10000467
+469;Blusa manga larga Urbano;niño;20;200;7/01/2020;Julio;Kenny;Pedido;Luis;10000468
+470;Chompa newport;adulto;40;600;25/09/2020;Abril;Takashi;Venta;Lidia;10000469
+471;Leggings deportivo;niño;20;120;27/11/2020;Octubre;Kevin;Venta;Teresa;10000470
+472;Poleron Vero;adulto;30;100;29/12/2020;Mayo;Neisser;Venta;Agustina;10000471
+473;Short Urbano;niño;50;500;11/12/2020;Julio;Neisser;Venta;Laura;10000472
+474;Polo manga cero;adulto;30;320;17/04/2020;Abril;Neisser;Pedido;Fiorella;10000473
+475;Pantalon Urbano;adulto;20;200;6/08/2020;Octubre;Neisser;Venta;Augusto;10000474
+476;Blusa Cottons;adulto;60;250;8/10/2020;Abril;Neisser;Venta;Dancy;10000475
+477;Casaca Crop Impermeable M;adulto;60;100;5/06/2020;Junio;Neisser;Venta;Takashi;10000476
+478;Casaca Crop Impermeable M;adulto;50;100;2/12/2020;Diciembre;Takashi;Pedido;Hugo;10000477
+479;Jean Basico;adulto;50;200;24/10/2020;Octubre;Kevin;Venta;Arilson;10000478
+480;Shompa tejida valentina;niño;30;200;4/06/2020;Junio;Neisser;Devolucion;Katerin;10000479
+481;Blusa manga larga Urbano;niño;30;1000;20/10/2020;Octubre;Neisser;Venta;Marilyn;10000480
+482;Chompa newport;adulto;20;700;5/03/2020;Marzo;Takashi;Venta;Seydi;10000481
+483;Leggings deportivo;adulto;50;500;10/05/2020;Mayo;Kevin;Venta;Kimberly;10000482
+484;Poleron Vero;niño;30;600;15/07/2020;Julio;Neisser;Devolucion;Marien;10000483
+485;Short Urbano;adulto;30;100;23/04/2020;Abril;Neisser;Venta;Patricia;10000484
+486;Polo manga cero;niño;50;200;21/10/2020;Octubre;Neisser;Venta;Cristian;10000485
+487;Pantalon Urbano;adulto;30;600;3/08/2020;Mayo;Neisser;Devolucion;Piero;10000486
+488;Blusa Cottons;adulto;20;200;27/12/2020;Julio;Kenny;Venta;Moises;10000487
+489;Casaca Crop Impermeable M;niño;60;600;21/09/2020;Abril;Takashi;Venta;Marcelo;10000488
+490;Casaca Crop Impermeable M;adulto;60;120;28/03/2020;Octubre;Kevin;Venta;Juleysi;10000486
+491;Jean Basico;niño;50;100;20/02/2020;Abril;Neisser;Devolucion;Marie;10000486
+492;Shompa tejida valentina;adulto;50;500;21/10/2020;Junio;Neisser;Pedido;Mariela;10000486
+493;Blusa manga larga Urbano;adulto;30;320;3/08/2020;Octubre;Neisser;Venta;Neisser;10000489
+494;Chompa newport;adulto;30;200;27/12/2020;Mayo;Neisser;Venta;Neisser;10000490
+495;Leggings deportivo;niño;20;250;21/09/2020;Julio;Neisser;Venta;Neisser;10000486
+496;Poleron Vero;adulto;50;100;28/03/2020;Abril;Neisser;Venta;Neisser;10000491
+497;Chompa newport;niño;30;100;20/02/2020;Octubre;Takashi;Pedido;Katyuska;10000492
+498;Leggings deportivo;adulto;40;200;28/03/2020;Abril;Kevin;Venta;Karla;10000486
+499;Poleron Vero;adulto;40;200;20/02/2020;Junio;Neisser;Venta;Dani;10000486
+500;Poleron Vero;adulto;40;200;20/02/2020;Junio;Neisser;Venta;Thiago;10000486
